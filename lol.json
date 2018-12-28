@@ -2,9 +2,8 @@
 
   "members" : [
     {
-      "name" : "简自豪",
       "age" : 22,
-      "secretIdentity" : "简自豪",
+      "name" : "简自豪",
       "powers" : [
         "Radiation resistance",
         "Turning tiny",
